@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  background-color: blue;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+  background-color: red;
+
+}
